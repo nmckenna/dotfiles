@@ -8,3 +8,4 @@
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
