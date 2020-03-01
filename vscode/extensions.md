@@ -11,3 +11,4 @@
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
