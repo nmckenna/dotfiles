@@ -10,3 +10,4 @@
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
