@@ -3,5 +3,6 @@
     "telemetry.enableCrashReporter": false,
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",
+    "editor.minimap.size": "fit",
     "prettier.arrowParens": "always"
 }
