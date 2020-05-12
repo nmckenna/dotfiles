@@ -12,3 +12,4 @@
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* [PyRight] (https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)
