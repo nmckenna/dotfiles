@@ -6,6 +6,8 @@ brew upgrade
 
 brew cask install iterm2
 
+brew install tree
+
 # Install Powerline Fonts
 mkdir temp-fonts
 cd temp-fonts
